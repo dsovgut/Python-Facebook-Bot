@@ -1,2 +1,2 @@
-# Python-Facebook-Bot
-This is a simple Python bot and goes to Facebook profiles and sends people messages using simulated keystrokes. 
+# Python Facebook Bot
+This is a simple Python bot that goes to selected Facebook profiles and sends people messages using simulated keystrokes. It uses selenium module and google chrome drivers to access the webpage. This was written just for fun to experiment with selenium module. You can input links to the facebook profiles that you want to message, the message itself, username info, and start the program. 
